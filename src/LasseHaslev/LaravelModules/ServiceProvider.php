@@ -17,7 +17,7 @@ class ServiceProvider extends BaseServiceProvider
 
         // Publish config
         $this->publishes([
-            __DIR__.'../../config/laravelmodules.php' => config_path('laravelmodules.php'),
+            __DIR__.'/../../config/laravelmodules.php' => config_path('laravelmodules.php'),
         ]);
 
         // Get module path

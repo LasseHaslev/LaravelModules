@@ -1,4 +1,4 @@
-# laravel-modules
+# laravelmodules
 > Package for ordering folders in modules
 
 ## Motivation
@@ -8,7 +8,7 @@ This package helps you with that.
 ## Install
 Begin by installing the package through Composer in your project folder.
 ```
-composer require lassehaslev/laravel-modules
+composer require lassehaslev/laravelmodules
 ```
 
 Open ```config/app.php``` and add ```LasseHaslev\LaravelModules\Providers\ServiceProvider::class``` to the ```providers``` array.

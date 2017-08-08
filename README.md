@@ -1,4 +1,6 @@
-# laravelmodules
+# (Deprecated) laravelmodules
+> This package is deprecated in favor for [lassehaslev/laravel-modules](https://github.com/LasseHaslev/laravel-modules)
+
 > Package for ordering folders in modules
 
 ## Motivation
